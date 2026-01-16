@@ -17,7 +17,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Queue Connections
+    | Queue Connectionss
     |--------------------------------------------------------------------------
     |
     | Here you may configure the connection options for every queue backend
